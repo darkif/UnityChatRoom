@@ -1,0 +1,11 @@
+D:\VSProjects\Csharp服务端\Csharp服务端\obj\Debug\Csharp服务端.csproj.CoreCompileInputs.cache
+D:\VSProjects\Csharp服务端\Csharp服务端\bin\Debug\Csharp服务端.exe.config
+D:\VSProjects\Csharp服务端\Csharp服务端\bin\Debug\Csharp服务端.exe
+D:\VSProjects\Csharp服务端\Csharp服务端\bin\Debug\Csharp服务端.pdb
+D:\VSProjects\Csharp服务端\Csharp服务端\obj\Debug\Csharp服务端.exe
+D:\VSProjects\Csharp服务端\Csharp服务端\obj\Debug\Csharp服务端.pdb
+D:\VSProjects\Csharp服务端\Csharp服务端\obj\Debug\Csharp服务端.csprojAssemblyReference.cache
+D:\VSProjects\Csharp服务端\Csharp服务端\bin\Debug\Csharp服务端.exe.manifest
+D:\VSProjects\Csharp服务端\Csharp服务端\bin\Debug\Csharp服务端.application
+D:\VSProjects\Csharp服务端\Csharp服务端\obj\Debug\Csharp服务端.exe.manifest
+D:\VSProjects\Csharp服务端\Csharp服务端\obj\Debug\Csharp服务端.application
